@@ -1,0 +1,4 @@
+<sitemesh>
+    <!-- Đã nhúng header.jsp và footer.jsp vào file web.jsp -->
+    <mapping decorator="/WEB-INF/decorators/web.jsp" path="/*" />
+</sitemesh>
